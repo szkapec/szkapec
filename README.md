@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
+---
 
 [website]: https://szkapec.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCfDIy_8Ig3F_B1-CsNi2lQw?view_as=subscriber
