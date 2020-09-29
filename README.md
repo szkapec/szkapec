@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Mateusz 👋
+I'am a Web Developer React 
+
+---
 
 Here are some ideas to get you started:
 
@@ -7,6 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me [Facebook][facebook]
 
+---
 
 ### Connect with me:
 
@@ -17,6 +21,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 ### Languages and Tools:
 
@@ -39,7 +44,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
+
 
 [website]: https://szkapec.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCfDIy_8Ig3F_B1-CsNi2lQw?view_as=subscriber
