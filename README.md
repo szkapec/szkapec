@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
+
 
 ### Languages and Tools:
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
+---
 
 [website]: https://szkapec.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCfDIy_8Ig3F_B1-CsNi2lQw?view_as=subscriber
