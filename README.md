@@ -2,20 +2,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...dsad
-- 🌱 I’m currently learning ...dsad
-- 👯 I’m looking to collaborate on ..dsa.dsaddas
-- 🤔 I’m looking for help with ...dsada
-- 💬 Ask me about ...dasda
-- 📫 How to reach me: ... [YouTube Channel]()
-- 😄 Pronouns: ...dasda
-- ⚡ Fun fact: ...dsadas
-
+- 🔭 I’m currently working on ...dsad Projektem strony z kursami intenetowymi obsługujących płatności,
+- 🌱 I’m currently learning redux, react hooks, stripe,
+- 👯 I’m looking to collaborate with other content creators
+- 📫 How to reach me [Facebook][facebook]
 
 
 ### Connect with me:
 
-[<img align="left" alt="webside" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/mdnwebdocs.svg" />][website]
+[<img align="left" alt="webside" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/homeadvisor.svg" />][website]
 [<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
