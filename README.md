@@ -1,5 +1,5 @@
 ### Hi there, I'm Mateusz 👋
-I'am a Web Developer React 
+I'am Frontend Developer React
 
 ---
 
