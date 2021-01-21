@@ -1,6 +1,6 @@
 ### Hi there, I'm Mateusz 👋
 I'am Frontend Developer React
-
+My Portfolio [CLICK][website]
 ---
 
 Here are some ideas to get you started:
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-[website]: https://szkapec.github.io/portfolio/
+[website]: https://szkapec.github.io/mateusz-kapron/#/
 [youtube]: https://www.youtube.com/channel/UCfDIy_8Ig3F_B1-CsNi2lQw?view_as=subscriber
 [instagram]: https://www.instagram.com/mateusz.kapron50/?hl=pl
 [linkedin]: https://www.linkedin.com/in/mateusz-kapro%C5%84-664b92197/
