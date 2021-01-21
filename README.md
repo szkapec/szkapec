@@ -1,7 +1,7 @@
 ### Hi there, I'm Mateusz 👋
 I'am Frontend Developer React
 ---
-### My Portfolio [CLICK][website]
+### My Portfolio [Click][website]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Hotel application
