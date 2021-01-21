@@ -5,7 +5,7 @@ I'am Frontend Developer React
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...dsad Projektem strony z kursami intenetowymi obsługujących płatności,
+- 🔭 I’m currently working on ...Hotel application
 - 🌱 I’m currently learning redux, react hooks, stripe,
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me [Facebook][facebook]
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCfDIy_8Ig3F_B1-CsNi2lQw?view_as=subscriber
 [instagram]: https://www.instagram.com/mateusz.kapron50/?hl=pl
 [linkedin]: https://www.linkedin.com/in/mateusz-kapro%C5%84-664b92197/
-[facebook]: https://www.facebook.com/NoweStronyInternetowe
+[facebook]: https://www.facebook.com/mateusz.kapron.50
