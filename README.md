@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 ---
 
-[website]: https://szkapec.github.io/mateusz-kapron/#/
+[website]: https://mateuszkapron.netlify.app
 [youtube]: https://www.youtube.com/channel/UCfDIy_8Ig3F_B1-CsNi2lQw?view_as=subscriber
-[instagram]: https://www.instagram.com/mateusz.kapron50/?hl=pl
-[linkedin]: https://www.linkedin.com/in/mateusz-kapro%C5%84-664b92197/
+[instagram]: https://www.instagram.com/mateusz.kapron50
+[linkedin]: https://www.linkedin.com/in/mateusz-kaproń
 [facebook]: https://www.facebook.com/mateusz.kapron.50
