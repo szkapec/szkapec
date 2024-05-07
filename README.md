@@ -4,10 +4,7 @@ I'am Frontend Developer React
 ### My Portfolio [Click][website]
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Hotel application
-- 🌱 I’m currently learning redux, react hooks, stripe,
-- 👯 I’m looking to collaborate with other content creators
-- 📫 How to reach me [Facebook][facebook]
+ I work as a Frontend Developer. I'm developing applications in React, but in the meantime I'm learning Next.js
 
 ---
 
