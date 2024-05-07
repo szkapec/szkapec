@@ -2,7 +2,6 @@
 I'am Frontend Developer React
 ---
 ### My Portfolio [Click][website]
-Here are some ideas to get you started:
 
  I work as a Frontend Developer. I'm developing applications in React, but in the meantime I'm learning Next.js
 
