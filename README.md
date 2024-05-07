@@ -1,5 +1,5 @@
 ### Hi there, I'm Mateusz 👋
-I'am Frontend Developer
+I'm Frontend Developer
 ---
 ### My Portfolio [Click][website]
 
